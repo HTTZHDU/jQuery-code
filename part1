@@ -1,0 +1,22 @@
+(96,283)给jquery对象添加一些方法和属性，
+jquery.fn = jquery.prototype={
+jquery: core_version,//版本号
+constructor: jQuery,//json 格式指定构造函数
+init(),
+selector:"",
+length:0,
+toarray(),
+get(),
+pushstack(),
+each(),
+ready(),
+slice(),
+first(),
+last(),
+eq(),
+map(),
+end(),
+push:,
+sort:,
+splice:
+}
