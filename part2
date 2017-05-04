@@ -1,4 +1,4 @@
-(285,347)extend : JQ的继承方法
+#(285,347)extend : JQ的继承方法
 
 jQuery.extend = jQuery.fn.extend = function() {
 定义一些变量；
